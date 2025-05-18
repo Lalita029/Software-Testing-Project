@@ -70,7 +70,7 @@ Clone the Repository:
 
 sh
 
-git clone 
+git clone https://github.com/Lalita029/Software-Testing-Project.git
 cd software-testing-projects
 
 Install Required Tools:
